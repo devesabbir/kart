@@ -1,0 +1,10 @@
+{
+  "header": {
+    "wish": "Wish",
+    "cart": "Cart",
+    "account": "Account"
+  },
+  "home": {
+    "wellcome": "Hello, world"
+  }
+}
